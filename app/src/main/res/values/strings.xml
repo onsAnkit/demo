@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawRouteDemo</string>
+    <string name="google_map_key">AIzaSyBsX9y8QMr_28CJDU5nqmvEPRd_gc2aHKo</string>
+
+</resources>
