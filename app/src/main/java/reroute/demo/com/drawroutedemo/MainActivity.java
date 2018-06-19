@@ -148,8 +148,8 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
             LatLng mLatLng = new LatLng(location.getLatitude(), location.getLongitude());
 
-            for (int i = 0; i < stepsList.size(); i++) {
-            }
+            /*for (int i = 0; i < stepsList.size(); i++) {
+            }*/
 
         }
 
